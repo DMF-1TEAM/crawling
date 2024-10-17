@@ -254,3 +254,7 @@ $RECYCLE.BIN/
 # End of https://www.toptal.com/developers/gitignore/api/python,visualstudiocode,macos,windows
 
 .chromedriver
+/chromedriver
+
+.news_data.csv
+/news_data.csv
