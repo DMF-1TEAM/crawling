@@ -258,3 +258,6 @@ $RECYCLE.BIN/
 
 .news_data.csv
 /news_data.csv
+
+.news_data.db
+/news_data.db
